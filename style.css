@@ -1,0 +1,32 @@
+h1{
+    background-color: grey;
+    text-align: center;
+    border-style: solid;
+    padding: 20px;
+    letter-spacing: 2px;
+    
+}
+
+.cats{
+    background-color: grey;
+    text-align: center;
+  
+}
+
+p{
+    font-size: 25px;
+}
+
+body{
+    color: white;
+    background-color: #505050ee;
+    
+}
+
+
+nav{
+    font-size: 16px;
+    
+}
+
+
